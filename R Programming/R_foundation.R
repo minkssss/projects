@@ -1,5 +1,3 @@
-# comment
-
 #### 1. variables
 # assign variable
 my_name <- "Mink"
