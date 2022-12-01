@@ -10,7 +10,7 @@ Author: `Mink`
   Window functio
   Subqueries
   WITH
-- (projects/Web Scraping Project.pdf)R Programming
+- R Programming
   Web Scraping
   Visualize
 - Statistics
