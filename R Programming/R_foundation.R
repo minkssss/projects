@@ -18,11 +18,10 @@ rm(university)
 
 (x <- 1:100) # create var + print in same time by using ()
 
-(x <- 25:49)
-
 y <- seq(1, 100, by=5) # (start, stop, by)
 
-class(x) # function class() use for check data type
+# function class() use for check data type
+class(x) 
 class(y)
 
 class("Hello World")
@@ -39,10 +38,11 @@ class(movie_lovers)
 ages <- c(29, 25, 27, 22, 28)
 class(ages)
 
-# create and learn about factor
+# create and learn about factor (factor is use for separate data as group)
 animals <- c("cat", "dog", "dog", "cat", "cat")
+class(animals)  # class = character but I would like to change to factor
 animals <- factor(animals)
-class(animals)
+class(animals) # class = factor
 
 table(animals) # create frequency table
 
@@ -60,9 +60,9 @@ class(my_date)
 # 3.4 dataframe (=pandas in python)
 
 # vector
-x <- 1:10 # change from vector to be matrix
+x <- 1:10
 
-#matrix
+# matrix
 (m1 <- matrix(x, ncol=5, byrow=TRUE))
 class(m1)
 
@@ -85,11 +85,13 @@ customer$movies[1:2]
 customer$m[2, 1] # [row, col]
 customer$m[4, 2]
 
-
-ages[ages > 28] # subset by logical
+friends <- c("mink", "mark", "john", "mary", "anna")
+ages <- c(29, 25, 27, 22, 28)
+# subset by logical
+ages[ages > 28]
 friends[ages > 27]
 
-
+# If have more than 1 list
 customer_01 <- list(
   fname = "David",
   lname = "Beckham",
@@ -133,7 +135,7 @@ df <- data.frame(id = 1:5,
 
 View(df)
 
-# subset data frame (by col)
+# subset data frame (by column)
 df$friends
 df$movie_lovers
 
@@ -151,8 +153,8 @@ df[df$movie_lovers, ] # default will subset only TRUE
 df[ ! df$movie_lovers, ] # friends who dont like movie use !
 
 # write csv file
-write.csv(df, "data/friends.csv",
-          row.names = FALSE)   # folder/file_name
+write.csv(df, "data/friends.csv",  # folder/file_name
+          row.names = FALSE)   
 
 # import csv file
 getwd()
