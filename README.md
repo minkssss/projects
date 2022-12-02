@@ -2,26 +2,26 @@
 Teacher: `adToy`
 Author: `Mink`
 
-- Spreadsheets
-  Dashboard
-  Pivot Table
-- SQL Database
-  Create database
-  Window functio
-  Subqueries
-  WITH
-- R Programming
-  Web Scraping
-  Visualize
-- Statistics
-  AB test
-  Linear Regression
-- Intro to `Classical` Machine Learning
-  Regression
-  Classification
-- Intro to Python
-  Pandas
-  Web Scraping
-- Dashboard
-  Looker
-  Tableau Public
+1. [Spreadsheets](https://github.com/minkssss/projects/tree/main/1%20Spreadsheets)
+  * Dashboard
+  * Pivot Table
+2. SQL Database
+  * Create database
+  * Window functio
+  * Subqueries
+  * WITH
+3. R Programming
+  * Web Scraping
+  * Visualize
+4. Statistics
+  * AB test
+  * Linear Regression
+5. Intro to `Classical` Machine Learning
+  * Regression
+  * Classification
+6. Intro to Python
+  * Pandas
+  * Web Scraping
+7. Dashboard
+  * Looker
+  * Tableau Public
