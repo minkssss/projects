@@ -1,9 +1,9 @@
 # Welcome to my Spreadsheets files
 
-## 7 Projects of Spreadsheets 
+7 Projects of Spreadsheets 
 * [All projects of Google Sheets](https://docs.google.com/spreadsheets/d/1VjjniJ4ZQOGXhzLnL6mvqzX5SP3gjnsB9hCQBo70SyY/edit?usp=sharing)
 
-## For Spreadsheets foundation
+For Spreadsheets foundation
 Please see my comment and lecture as in blue color text of each file.
 
 ![Image](https://iili.io/HqHZwwG.png)
