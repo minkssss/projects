@@ -2,7 +2,7 @@
 Teacher: `adToy`
 Author: `Mink`
 
-1. [Spreadsheets](https://github.com/minkssss/projects/tree/main/1%20Spreadsheets)
+1. [Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md)
   * Dashboard
   * Pivot Table
 2. SQL Database
