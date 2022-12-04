@@ -1,4 +1,8 @@
 # Welcome to my Spreadsheets files
+1. Projects of Spreadsheets
+2. Spreadsheets foundation
+3. Query data in Spreadsheets
+4. Data Visualization in Spreadsheets
 
 
 ### 1. Projects of Spreadsheets 
@@ -18,12 +22,14 @@ Please see my comment and lecture as in blue color text of each file.
 * [Google Sheets 102](https://docs.google.com/spreadsheets/d/1pqxWg9A1ktpRdSzV2XK1RDse1guvpIrt5jDFBD2myY0/edit?usp=sharing)
 * [Google Sheets Bootcamp](https://docs.google.com/spreadsheets/d/1AdpNr6BoyZQs9aLlRSmnVBFfwa0EQPVbUSVJ58W5lQg/edit?usp=sharing)
 
+
 ### 3. Query data in Spreadsheets
 Please see my comment and lecture as in blue color text of each file.
 
 ![Image](https://iili.io/HCTeWq7.md.png)
 
 * [Query data by Google Sheets](https://docs.google.com/spreadsheets/d/1Jwr3v1h7gwQspwD2kmX-p2nmgeqJdsYfkx8SGalw-Ss/edit?usp=sharing)
+
 
 ### 4. Data Visualization in Spreadsheets
 
