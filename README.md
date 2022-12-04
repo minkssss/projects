@@ -11,7 +11,7 @@ Author: `Mink (kulchaya p.)`
   * Subqueries
   * WITH
 3. R Programming
-  * Web Scraping
+  * [Web Scraping](https://github.com/minkssss/projects/blob/main/3%20R/Web%20scraping/Web%20scraping.md)
   * Visualize
 4. Statistics
   * AB test
