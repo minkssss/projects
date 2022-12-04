@@ -1,6 +1,6 @@
 # All my Projects
 Teacher: `adToy`
-Author: `Mink`
+Author: `Mink (kulchaya p.)`
 
 1. [Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md)
   * Dashboard
