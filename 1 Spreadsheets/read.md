@@ -1,8 +1,8 @@
 # Welcome to my Spreadsheets files
-[1. Projects of Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#1-projects-of-spreadsheets)
-[2. Spreadsheets foundation](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#2-spreadsheets-foundation)
-[3. Query data in Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#3-query-data-in-spreadsheets)
-[4. Data Visualization in Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#4-data-visualization-in-spreadsheets)
+1. [1. Projects of Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#1-projects-of-spreadsheets)
+2. [2. Spreadsheets foundation](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#2-spreadsheets-foundation)
+3. [3. Query data in Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#3-query-data-in-spreadsheets)
+4. [4. Data Visualization in Spreadsheets](https://github.com/minkssss/projects/blob/main/1%20Spreadsheets/read.md#4-data-visualization-in-spreadsheets)
 
 
 ### 1. Projects of Spreadsheets 
