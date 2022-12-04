@@ -24,3 +24,7 @@ Please see my comment and lecture as in blue color text of each file.
 ![Image](https://iili.io/HCTeWq7.md.png)
 
 * [Query data by Google Sheets](https://docs.google.com/spreadsheets/d/1Jwr3v1h7gwQspwD2kmX-p2nmgeqJdsYfkx8SGalw-Ss/edit?usp=sharing)
+
+### 4. Data Visualization in Spreadsheets
+
+* [Data Visualization](https://docs.google.com/spreadsheets/d/14VWP4bM1ReA7rD-6jJCag3GCBLNlYNnlQYLIsoKe99c/edit?usp=sharing)
